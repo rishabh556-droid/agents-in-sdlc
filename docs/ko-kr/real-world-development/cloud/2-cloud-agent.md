@@ -42,7 +42,7 @@ GitHub 웹 UI 또는 실행 중인 Codespace에서 다음 파일을 엽니다.
 - `.github/copilot-instructions.md` - TypeScript 규칙과 TSDoc 문서 주석 요구 사항이 포함된 **Code standards** 섹션을 검토합니다.
 - `.github/instructions/unit-tests.instructions.md` - `applyTo` frontmatter가 `**/*.test.ts` 파일에 지침을 적용하는 방식을 살펴봅니다.
 
-다음 섹션에서 `코드에 문서가 부족합니다` 이슈를 cloud agent에 할당할 때 풀 리퀘스트에 TSDoc 문서 주석, TypeScript 규칙, 파일 머리 주석이 반영되는지 확인합니다. 이후 연습에서 풀 리퀘스트를 검토할 때 다시 살펴봅니다.
+다음 섹션에서 `Code lacks documentation` 이슈를 cloud agent에 할당할 때 풀 리퀘스트에 TSDoc 문서 주석, TypeScript 규칙, 파일 머리 주석이 반영되는지 확인합니다. 이후 연습에서 풀 리퀘스트를 검토할 때 다시 살펴봅니다.
 
 ## Copilot cloud agent 개발 환경 설정하기
 
@@ -102,7 +102,7 @@ jobs:
 2. **Issues** 탭을 선택합니다.
 3. **New issue**를 선택하여 새 이슈 대화 상자를 엽니다.
 4. **Blank issue**를 선택합니다.
-5. **Title**에 `코드에 문서가 부족합니다`를 입력합니다.
+5. **Title**에 `Code lacks documentation`을 입력합니다.
 6. **Description**에 다음을 입력합니다.
 
     ```plaintext
@@ -146,7 +146,7 @@ GitHub Copilot cloud agent의 장점 중 하나는 작업을 나눌 수 있다�
 2. **Issues** 탭을 선택합니다.
 3. **New issue**를 선택하여 새 이슈 대화 상자를 엽니다.
 4. **Blank issue**를 선택합니다.
-5. **Title**에 `게임 상세 페이지에 관련 게임 표시`를 입력합니다.
+5. **Title**에 `Show related games on the game details page`를 입력합니다.
 6. **Description**에 다음을 입력합니다.
 
     ```markdown

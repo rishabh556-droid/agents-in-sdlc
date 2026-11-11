@@ -1,6 +1,6 @@
 ---
 slug: ja-jp/real-world-development/vscode
-title: "VS Code"
+title: "Visual Studio Code"
 authors:
   - geektrainer
 lastUpdated: 2026-06-30
